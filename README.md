@@ -2,7 +2,7 @@
 
 aidorb website development
 
-aidorb is a tool to maintain our well-being by empowering the world against climate change.
+aidorb is a tool to maintain our well-being by empowering the world against climate change. Contribute to our code, please.
 
 WHAT YOU NEED TO KNOW
 
@@ -19,3 +19,5 @@ WHY AIDORB?
 3. The aidorb team has people with academic and professional experience. Therefore, aidorb is able to certify the trust of projects around the world and make prime equivalent carbon dioxide emission estimations.
 
 aidorb's founders are and environmental engineer with an Earth Sciences Master by the Universiteit van Amsterdam and a computer scientist with a Database Architectures PhD also by the Universiteit van Amsterdam.
+
+Contribute to our code, please.
