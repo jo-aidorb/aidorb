@@ -18,6 +18,6 @@ WHY AIDORB?
 2. The equivalent carbon dioxide emissions are expressed as CO2. It makes it possible for the public to help without getting lost in escesive information.
 3. The aidorb team has people with academic and professional experience. Therefore, aidorb is able to certify the trust of projects around the world and make prime equivalent carbon dioxide emission estimations.
 
-aidorb's founders are and environmental engineer with an Earth Sciences Master by the Universiteit van Amsterdam and a computer scientist with a Database Architectures PhD also by the Universiteit van Amsterdam.
+aidorb's founders are an environmental engineer with an Earth Sciences Master by the Universiteit van Amsterdam and a computer scientist with a Database Architectures PhD also by the Universiteit van Amsterdam.
 
 Contribute to our code, please.
